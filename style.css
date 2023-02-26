@@ -1,0 +1,33 @@
+* {
+  text-align: center;
+  font-family: 'Montserrat Alternates';
+}
+h1 {
+  background-color: #94CEFF;
+  color: white;
+  margin: 0px;
+  padding: 10px;
+  letter-spacing: 10px;
+}
+
+.html {
+  background-color: #FFA466;
+  color: white;
+  margin: 70px;
+  padding: 50px;
+}
+
+.css {
+  background-color: #FFA466;
+  color: white;
+  margin: 70px;
+  padding: 50px;
+}
+
+h5 {
+  background-color: #7B7494;
+  margin: 0px;
+  padding: 10px;
+  letter-spacing: 2px;
+  font-family: 'Roboto Mono';
+}
